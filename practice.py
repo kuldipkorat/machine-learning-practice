@@ -17,3 +17,7 @@
 # index = int(input("enter index number:"))
 # print(data[index:]+data[0:index])
 
+# if(6>5>2):
+#     print("true")
+# else:
+#     print("false")
